@@ -52,4 +52,6 @@ Tags: Exceeding (≥60) | On Track (≥40) | Lagging (≥20) | Critical (<20)
 <img width="953" height="471" alt="Capture d&#39;écran 2026-06-25 104515" src="https://github.com/user-attachments/assets/968b7a58-5731-4165-afc2-db27adaca5b5" />
 <img width="956" height="502" alt="Capture d&#39;écran 2026-06-25 104712" src="https://github.com/user-attachments/assets/9d627ac7-5d71-47e4-bebd-fd09d220965b" />
 <img width="959" height="497" alt="Capture d&#39;écran 2026-06-25 104739" src="https://github.com/user-attachments/assets/c31adaa2-6410-4a9d-a5ed-6173df3f235c" />
+<img width="590" height="391" alt="Capture d&#39;écran 2026-06-25 110147" src="https://github.com/user-attachments/assets/e82b46fe-b6c7-4936-8fc8-5208582c77a2" />
+
 
